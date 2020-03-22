@@ -5,4 +5,7 @@
          data.push(i)
     
     }
+document.getElementById("name").innerHTML = name;
+document.getElementById("course").innerHTML = courses;
+document.getElementById("data").innerHTML = data;
     
